@@ -1,5 +1,9 @@
 # ✨ PihuConnect AR
 
+live link - https://xannnyyyy.github.io/pihu-connect-ar/
+
+
+
 An interactive hand-tracking AR experience built using MediaPipe Hands, JavaScript, HTML5 Canvas, and real-time visual effects.
 
 This project transforms hand movements into dynamic neon animations, particle effects, lightning interactions, and immersive audio-reactive visuals directly inside the browser using webcam input.
